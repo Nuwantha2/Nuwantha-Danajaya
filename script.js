@@ -3,42 +3,42 @@ const portfolioItems = [
     {
         title: 'Portfolio Website',
         description: 'Wix based responsive portfolio website with booking',
-        image: '../img/hero1.png',
+        image: 'https://drive.google.com/file/d/18yvIJTYiqU3xphr9oLqoOWspP9WVng6H/view?usp=sharing',
         category: 'Wix',
         id: 'project1'
     },
     {
         title: 'Digital Marketing Agency Website',
         description: 'Wordpress website with custom theme',
-        image: '../img/hero2.png',
+        image: 'https://drive.google.com/file/d/1_ng6ea6pZniP12r3xunK8PrjmexcO7Uv/view?usp=sharing',
         category: 'Wordpress',
         id: 'project2'
     },
     {
         title: 'Custom 3D Action Toys Website',
         description: 'Colorfull full responsive custom 3d model website',
-        image: '../img/hero3.png',
+        image: 'https://drive.google.com/file/d/1kIPWHqV6Zm4oup43BA3iqtOL-KbCyWvh/view?usp=sharing',
         category: 'Wix',
         id: 'project3'
     },
     {
         title: 'Athletic Performance Training Website',
         description: 'Professional wordpress website for a training center showcasing clients strength',
-        image: '../img/hero4.png',
+        image: 'https://drive.google.com/file/d/1WtUYsKF6PentKPgmEFG75-sKNNQxd6Ef/view?usp=sharing',
         category: 'Wordpress',
         id: 'project4'
     },
     {
         title: 'AI Learning LMS',
         description: 'Custom Wix website with wix LMS with advanced features',
-        image: '../img/hero5.png',
+        image: 'https://drive.google.com/file/d/1JpgD9ANyY09yFV2FdN1QPEp8IMqObp5i/view?usp=sharing',
         category: 'Wix',
         id: 'project5'
     },
     {
         title: 'Therepist Website',
         description: 'Wix website with event booking functionality',
-        image: '../img/hero6.png',
+        image: 'https://drive.google.com/file/d/1Oq655ijuKRL8RGR9le5zwsNL_-0Opoq-/view?usp=sharing',
         category: 'Wix',
         id: 'project6'
     }
