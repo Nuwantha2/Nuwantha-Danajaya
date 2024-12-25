@@ -133,7 +133,7 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/hero.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://raw.githubusercontent.com/Nuwantha2/Nuwantha-Danajaya/refs/heads/main/img/hero.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
